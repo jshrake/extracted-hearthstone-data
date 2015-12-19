@@ -1,0 +1,3 @@
+[submodule "disunity"]
+	path = disunity
+	url = https://github.com/ata4/disunity.git
